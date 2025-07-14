@@ -1,0 +1,1 @@
+export * as PaymentServices from './payment.service';

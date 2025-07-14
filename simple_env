@@ -1,0 +1,9 @@
+SERVER_PORT=3000
+NODE_ENV=localhost
+# localhost, development, production, staging
+
+API_MORGAN_LOGS=ON
+# ON, OF
+
+AIP_HIT_RATE_LIMIT=100 
+AIP_RATE_LIMIT_TIME=10 # set of minutes
