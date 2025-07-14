@@ -1,0 +1,9 @@
+## build 
+dist/
+
+# IGNORE DEIRECTORIES FOR PUSH GIT HUB CODE
+node_modules/
+package-lock.json
+
+## enviroment
+.env
